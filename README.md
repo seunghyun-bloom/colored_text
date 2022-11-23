@@ -72,4 +72,4 @@ Please file feature requests and bugs at this [Issue Tracker](https://github.com
 
 #### Thank you for your interest
 
-Seunghyun Kwon
+*Seunghyun Kwon*
