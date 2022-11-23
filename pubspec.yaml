@@ -1,7 +1,6 @@
 name: colored_text
 description: Fancy highlighted text with color
 version: 0.0.1
-author: Seunghyun Kwon
 homepage: https://github.com/seunghyun-bloom/colored_text
 
 environment:
